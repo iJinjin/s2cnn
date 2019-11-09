@@ -1,4 +1,6 @@
-# Spherical CNNs
+# Spherical CNNs (Forked Jinjin Edit)
+Intended to serve as some small reorganizations of the original code (experimental) - Jinjin
+
 ## Equivariant CNNs for the sphere and SO(3) implemented in PyTorch
 
 ![Equivariance](https://github.com/jonas-koehler/s2cnn/raw/master/examples/equivariance_plot/fig.jpeg)
